@@ -74,6 +74,7 @@
 - [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
 - [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
 - [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
+- [Sticker Printer Hub](https://stickerprinterhub.com/) - Free browser sticker sheet maker: lays out 4x7 sticker sheets for print-and-cut printers, plus a cost-per-sheet calculator.
 
 ## Contributing
 
